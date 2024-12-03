@@ -1,0 +1,8 @@
+.env
+files
+__pycache__
+faiss_index
+index_1.faiss
+index_2.faiss
+index_3.faiss
+chat_history.db
